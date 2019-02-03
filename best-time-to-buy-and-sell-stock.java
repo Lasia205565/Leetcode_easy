@@ -26,7 +26,7 @@ class Solution {
     }
 }
 
-/**code-provided_by_leetcode/
+/**code-provided_by_leetcode**/
 
 public class Solution {
     public int maxProfit(int prices[]) {
