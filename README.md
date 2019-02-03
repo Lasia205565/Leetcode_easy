@@ -1,3 +1,3 @@
 # Leetcode_easy
 
-LeetCode_Easy Part
+LeetCode EASY PART
